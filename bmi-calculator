@@ -17,4 +17,4 @@ elif bmi<18.5:
     print('your weight is too low')
 else:
     print('your weight is normal')
-print('End of Programm')
+print('End of the programm')
